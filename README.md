@@ -1,6 +1,9 @@
 # **KETSU**
 
 
+
+## [Home](http://nincompoopp.github.io/) | [FAQ](http://nincompoopp.github.io/faq)
+
 ### **Download KETSU**
 
 
