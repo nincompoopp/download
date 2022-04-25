@@ -1,4 +1,4 @@
-# **KETSU**
+# **Download**
 
 
 
@@ -16,6 +16,7 @@ To download KETSU, you need to have the following checked off.
 
 Have all boxes checked off? Next step is to download KETSU via the official website [here.](http://ketsu.app/download.html)
 
-#### Is KETSU safe to download? Multiple malware and virus scanners say yes.
+#### Is KETSU safe to download? See what one of the most trusted virus and malware scanner says.
+>[VirusTotal](https://www.virustotal.com/gui/file/f651a66f43bfdb281ce87e2d9e95e8e2ea96c2b9597e3223295cdb93988dda2d/summary)
 
 If you are having any sort of problems with KETSU, don't hesitate to ask in the discord [here.](https://discord.gg/mZGnmeKR)
