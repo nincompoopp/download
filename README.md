@@ -10,7 +10,6 @@
       <a href="https://nincompoopp.github.io/faq">FAQ</a>
     </section>
       <hr>
-      <br>
       <h2>Download</h2>
       <h4>
         Why isn't KETSU on the appstore anymore?
